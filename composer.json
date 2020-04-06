@@ -1,0 +1,20 @@
+{
+    "name": "fghazaleh/math",
+    "description": "Math",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fghazaleh",
+            "email": "franco.ghazaleh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "FGhazaleh\\Math\\": "src/"
+        }
+    }
+}
